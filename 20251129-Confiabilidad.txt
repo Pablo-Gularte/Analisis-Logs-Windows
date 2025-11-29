@@ -1,0 +1,28 @@
+Origen
+Windows
+
+Resumen
+Error de hardware
+
+Fecha
+‎29/‎11/‎2025 10:06
+
+Estado
+No reportado
+
+Descripción
+Windows dejó de funcionar correctamente por un problema con el hardware.
+
+Firma del problema
+Nombre de evento de problema:	LiveKernelEvent
+Código:	1b0
+Parámetro 1:	1
+Parámetro 2:	ffffffffc0000001
+Parámetro 3:	0
+Parámetro 4:	0
+Versión de SO:	10_0_19045
+Service Pack:	0_0
+Producto:	256_1
+Versión de SO:	10.0.19045.2.0.0.256.48
+Id. de configuración regional:	11274
+
